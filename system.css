@@ -43,7 +43,7 @@ input, select, textarea {
     position: relative;
 }
 .actionButton {
-    background: linear-gradient(to bottom, #0ed0fc 0%, #0c5aef 100%);
+    background: linear-gradient(to bottom, #28ce53 0%, #1dbd3a 100%);
     background-size: 100%;
     color: #fff;
     border: none;
