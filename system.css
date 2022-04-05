@@ -82,3 +82,6 @@ input, select, textarea {
 .actionIcon {
     height: 10%;
 }
+.actionIconButton {
+    position: relative;
+}
