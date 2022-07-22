@@ -1,17 +1,17 @@
 @font-face {
-    font-family: "sfuitext";
-    src: url("sfuitext.ttf");
+    font-family: "sfui-text";
+    src: url("sfui-text.ttf");
 }
 body, font, a, p, b, i, strong, em, li {
     background-color: #ddd;
     color: #000;
-    font-family: "sfuitext";
+    font-family: "sfui-text";
     font-size: 14pt;
 }
 table, tr, td, th {
     background-color: inherit;
     color: #000;
-    font-family: "sfuitext";
+    font-family: "sfui-text";
     font-size: 14pt;
     text-align: center;
 }
@@ -20,7 +20,7 @@ input, select, textarea {
     color: #000;
     border: none;
     border-radius: 5px;
-    font-family: "sfuitext";
+    font-family: "sfui-text";
     font-size: 14pt;
 }
 .top {
@@ -50,7 +50,7 @@ input, select, textarea {
     border-radius: 5px;
     width: 29px;
     height: 28px;
-    font-family: "sfuitext";
+    font-family: "sfui-text";
     font-weight: bold;
     font-size: 14pt;
     position: relative;
@@ -61,7 +61,7 @@ input, select, textarea {
     border: none;
     text-align: center;
     position: relative;
-    font-family: "sfuitext";
+    font-family: "sfui-text";
     font-size: 16pt;
     overflow-x: scroll;
     width: 90%;
@@ -73,7 +73,7 @@ input, select, textarea {
     border: none;
     text-align: center;
     position: relative;
-    font-family: "sfuitext";
+    font-family: "sfui-text";
     font-size: 16pt;
     overflow-x: scroll;
     width: 90%;
